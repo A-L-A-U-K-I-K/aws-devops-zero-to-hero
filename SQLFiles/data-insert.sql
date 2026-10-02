@@ -1,6 +1,6 @@
 USE ecommerce;
 
-Insert users
+-- Insert users
 INSERT INTO users VALUES (1, 'John Doe');
 INSERT INTO users VALUES (2, 'Jane Smith');
 
